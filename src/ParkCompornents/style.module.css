@@ -1,0 +1,78 @@
+.blue {
+  color: blue;
+  text-shadow: 1px 0 rgb(140, 255, 105), 0 1px rgb(140, 255, 105),
+    1px 0 rgb(140, 255, 105), 0 -1px rgb(140, 255, 105);
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.green {
+  color: blue;
+  text-shadow: 1px 0 rgb(140, 255, 105), 0 1px rgb(140, 255, 105),
+    1px 0 rgb(140, 255, 105), 0 -1px rgb(140, 255, 105);
+  font-size: 50px;
+  text-align: center;
+}
+
+.SNS {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top: 25%;
+}
+.imaA {
+}
+
+.imaB {
+}
+
+.imaC {
+}
+
+.AppWrap {
+  width: 100px;
+  height: 100px;
+}
+
+.appContentWrap {
+  left: 50%;
+  transform: translate(-50%, 0);
+  /* top: 60%;
+   */
+  position: absolute;
+  padding: 20px;
+}
+.input {
+  padding: 16px;
+  border: 2px black solid;
+  border-radius: 16px;
+  background-color: white;
+}
+
+.ResultWrap {
+  margin-top: 60px;
+  border: 5px black solid;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.city {
+  font-size: 24px;
+  text-shadow: 1px 0 rgb(140, 255, 105), 0 1px rgb(140, 255, 105),
+    1px 0 rgb(140, 255, 105), 0 -1px rgb(140, 255, 105);
+}
+.temperature {
+  font-size: 60px;
+  margin-top: 8px;
+  text-shadow: 1px 0 rgb(140, 255, 105), 0 1px rgb(140, 255, 105),
+    1px 0 rgb(140, 255, 105), 0 -1px rgb(140, 255, 105);
+}
+.sky {
+  font-size: 20px;
+  text-align: right;
+  margin-top: 8px;
+  text-shadow: 1px 0 rgb(140, 255, 105), 0 1px rgb(140, 255, 105),
+    1px 0 rgb(140, 255, 105), 0 -1px rgb(140, 255, 105);
+}
